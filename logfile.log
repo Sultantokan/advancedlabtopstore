@@ -1,0 +1,894 @@
+{"level":"info","msg":"Server is starting...","time":"2024-01-31T13:47:15+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-01-31T13:47:16+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-01-31T13:47:24+06:00","url":"/"}
+{"level":"info","msg":"Server is starting...","time":"2024-01-31T13:48:12+06:00"}
+{"level":"info","msg":"Server is starting...","time":"2024-01-31T13:48:14+06:00"}
+{"level":"info","msg":"Server is starting...","time":"2024-01-31T13:48:18+06:00"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-27T21:43:12+06:00"}
+{"error":"listen tcp :8080: bind: address already in use","level":"fatal","msg":"Server startup error","time":"2024-02-27T21:43:12+06:00"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-27T21:43:26+06:00"}
+{"error":"listen tcp :8080: bind: address already in use","level":"fatal","msg":"Server startup error","time":"2024-02-27T21:43:26+06:00"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-27T21:43:32+06:00"}
+{"error":"listen tcp :8080: bind: address already in use","level":"fatal","msg":"Server startup error","time":"2024-02-27T21:43:32+06:00"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-27T21:44:28+06:00"}
+{"error":"listen tcp :8080: bind: address already in use","level":"fatal","msg":"Server startup error","time":"2024-02-27T21:44:28+06:00"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-27T21:47:39+06:00"}
+{"error":"listen tcp :8080: bind: address already in use","level":"fatal","msg":"Server startup error","time":"2024-02-27T21:47:39+06:00"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-27T21:49:08+06:00"}
+{"error":"listen tcp :8080: bind: address already in use","level":"fatal","msg":"Server startup error","time":"2024-02-27T21:49:08+06:00"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-27T21:51:57+06:00"}
+{"error":"listen tcp :8080: bind: address already in use","level":"fatal","msg":"Server startup error","time":"2024-02-27T21:51:57+06:00"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-27T21:52:38+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:52:46+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:01+06:00","url":"/uploads/1709013465340-digital_camera_photo-1080x675.jpg"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:03+06:00","url":"/main.html"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-27T21:53:22+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:28+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:28+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:32+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:32+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:34+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:34+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:36+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:36+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:36+06:00","url":"/"}
+{"ip":"[::1]:52300","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T21:53:36+06:00","url":"/favicon.ico"}
+{"ip":"[::1]:52300","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T21:53:37+06:00","url":"/"}
+{"ip":"[::1]:52300","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T21:53:37+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:39+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:39+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:43+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:43+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:46+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:46+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:47+06:00","url":"/"}
+{"ip":"[::1]:52300","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T21:53:47+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:48+06:00","url":"/"}
+{"ip":"[::1]:52300","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T21:53:48+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:49+06:00","url":"/"}
+{"ip":"[::1]:52300","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T21:53:49+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:51+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:51+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:53+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:53+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:54+06:00","url":"/"}
+{"ip":"[::1]:52300","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T21:53:54+06:00","url":"/favicon.ico"}
+{"ip":"[::1]:52300","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T21:53:54+06:00","url":"/"}
+{"ip":"[::1]:52300","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T21:53:54+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:56+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:53:56+06:00","url":"/favicon.ico"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-27T21:54:13+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:54:40+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:54:41+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:54:44+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T21:54:44+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:04:50+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:04:50+06:00","url":"/styls.css"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:04:50+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:04:51+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:04:51+06:00","url":"/styls.css"}
+{"ip":"[::1]:52488","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T22:04:51+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:04:51+06:00","url":"/"}
+{"ip":"[::1]:52488","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T22:04:51+06:00","url":"/styls.css"}
+{"ip":"[::1]:52488","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T22:04:51+06:00","url":"/favicon.ico"}
+{"ip":"[::1]:52488","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T22:04:51+06:00","url":"/"}
+{"ip":"[::1]:52488","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T22:04:51+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:04:53+06:00","url":"/"}
+{"ip":"[::1]:52488","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T22:04:53+06:00","url":"/styls.css"}
+{"ip":"[::1]:52488","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T22:04:53+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:05:13+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:05:13+06:00","url":"/styles.css"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:05:13+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:05:13+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:05:13+06:00","url":"/styles.css"}
+{"ip":"[::1]:52488","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T22:05:13+06:00","url":"/favicon.ico"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-27T22:05:18+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:05:20+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:05:20+06:00","url":"/styles.css"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:05:20+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:06:01+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:06:01+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:06:07+06:00","url":"/main"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:06:07+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:06:09+06:00","url":"/login"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:06:09+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:06:09+06:00","url":"/main"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:06:09+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:06:44+06:00","url":"/main"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:06:44+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:11:57+06:00","url":"/main"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:11:57+06:00","url":"/favicon.ico"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:12:21+06:00","url":"/update-laptop"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:12:25+06:00","url":"/main"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:12:25+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:12:26+06:00","url":"/main"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:12:26+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:12:27+06:00","url":"/main"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:12:27+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:12:27+06:00","url":"/main"}
+{"ip":"[::1]:52544","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T22:12:27+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:12:30+06:00","url":"/main"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:12:30+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:12:42+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:12:42+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:12:44+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:12:44+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:12:54+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:12:54+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:12:58+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:12:58+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:13:00+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:13:00+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:13:02+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:13:02+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:13:03+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:13:03+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:13:05+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:13:05+06:00","url":"/favicon.ico"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:15:02+06:00","url":"/update-laptop"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:15:05+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:15:05+06:00","url":"/favicon.ico"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-27T22:15:27+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:15:28+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:15:28+06:00","url":"/favicon.ico"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:15:37+06:00","url":"/update-laptop"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:15:40+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:15:40+06:00","url":"/favicon.ico"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:16:15+06:00","url":"/update-laptop"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:16:18+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:16:18+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:16:18+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:16:18+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:16:56+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:16:56+06:00","url":"/favicon.ico"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:17:00+06:00","url":"/update-laptop"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:25:59+06:00","url":"/main"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:25:59+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:26:01+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:26:01+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:27:54+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:27:54+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:36:01+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:36:01+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:37:28+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:37:28+06:00","url":"/favicon.ico"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:37:38+06:00","url":"/update"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:37:40+06:00","url":"/update"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:37:42+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:37:42+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:37:43+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:37:43+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:38:18+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:38:18+06:00","url":"/favicon.ico"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:38:23+06:00","url":"/update"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:38:25+06:00","url":"/update"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:38:25+06:00","url":"/update"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:38:25+06:00","url":"/update"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:39:30+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:39:30+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:39:31+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:39:31+06:00","url":"/favicon.ico"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-27T22:39:48+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:39:49+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:39:49+06:00","url":"/favicon.ico"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:39:55+06:00","url":"/update"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:39:56+06:00","url":"/update"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:39:56+06:00","url":"/update"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:39:56+06:00","url":"/update"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:39:56+06:00","url":"/update"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:39:56+06:00","url":"/update"}
+{"ip":"[::1]:53282","level":"warning","method":"POST","msg":"Too many requests","time":"2024-02-27T22:39:56+06:00","url":"/update"}
+{"ip":"[::1]:53282","level":"warning","method":"POST","msg":"Too many requests","time":"2024-02-27T22:39:56+06:00","url":"/update"}
+{"ip":"[::1]:53282","level":"warning","method":"POST","msg":"Too many requests","time":"2024-02-27T22:39:56+06:00","url":"/update"}
+{"ip":"[::1]:53282","level":"warning","method":"POST","msg":"Too many requests","time":"2024-02-27T22:39:57+06:00","url":"/update"}
+{"ip":"[::1]:53282","level":"warning","method":"POST","msg":"Too many requests","time":"2024-02-27T22:39:57+06:00","url":"/update"}
+{"ip":"[::1]:53282","level":"warning","method":"POST","msg":"Too many requests","time":"2024-02-27T22:39:57+06:00","url":"/update"}
+{"ip":"[::1]:53282","level":"warning","method":"POST","msg":"Too many requests","time":"2024-02-27T22:39:57+06:00","url":"/update"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:39:57+06:00","url":"/update"}
+{"ip":"[::1]:53282","level":"warning","method":"POST","msg":"Too many requests","time":"2024-02-27T22:39:57+06:00","url":"/update"}
+{"ip":"[::1]:53282","level":"warning","method":"POST","msg":"Too many requests","time":"2024-02-27T22:39:58+06:00","url":"/update"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:39:58+06:00","url":"/update"}
+{"ip":"[::1]:53282","level":"warning","method":"POST","msg":"Too many requests","time":"2024-02-27T22:39:59+06:00","url":"/update"}
+{"ip":"[::1]:53282","level":"warning","method":"POST","msg":"Too many requests","time":"2024-02-27T22:39:59+06:00","url":"/update"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:39:59+06:00","url":"/update"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:40:03+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:40:03+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:42:18+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:42:18+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:44:42+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:44:42+06:00","url":"/favicon.ico"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:44:46+06:00","url":"/update"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:44:47+06:00","url":"/update"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:44:55+06:00","url":"/update"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:44:55+06:00","url":"/update"}
+{"level":"info","method":"POST","msg":"Request processing","time":"2024-02-27T22:44:55+06:00","url":"/update"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:44:57+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:44:57+06:00","url":"/favicon.ico"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-27T22:46:29+06:00"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-27T22:48:28+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:48:30+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:48:30+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:48:38+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:48:38+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:48:40+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:48:40+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:48:47+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:48:47+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:48:50+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:48:50+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:49:07+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:49:07+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:49:09+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:49:09+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:49:10+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:49:10+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:49:10+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:49:10+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:49:13+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:49:13+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:49:15+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:49:15+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:49:37+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:49:37+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:49:40+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:49:40+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:49:45+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:49:45+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:49:46+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:49:46+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:49:59+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:49:59+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:50:05+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:50:05+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:50:13+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:50:13+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:50:14+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:50:14+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:50:14+06:00","url":"/"}
+{"ip":"[::1]:53369","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T22:50:14+06:00","url":"/favicon.ico"}
+{"ip":"[::1]:53369","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T22:50:14+06:00","url":"/"}
+{"ip":"[::1]:53369","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T22:50:14+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:50:14+06:00","url":"/"}
+{"ip":"[::1]:53369","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T22:50:14+06:00","url":"/favicon.ico"}
+{"ip":"[::1]:53369","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T22:50:15+06:00","url":"/"}
+{"ip":"[::1]:53369","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T22:50:15+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:50:16+06:00","url":"/"}
+{"ip":"[::1]:53369","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T22:50:16+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:50:18+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:50:18+06:00","url":"/favicon.ico"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-27T22:50:53+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:50:55+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:50:55+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:51:00+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:51:05+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:51:07+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:51:07+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:51:09+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:51:09+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:51:21+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:51:21+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:51:22+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:51:22+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:51:33+06:00","url":"/favicon.ico"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-27T22:51:41+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:51:44+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:51:44+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:51:44+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:51:46+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:51:46+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:52:37+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:52:37+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:52:37+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:52:39+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:52:40+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:52:41+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:52:41+06:00","url":"/favicon.ico"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-27T22:54:54+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:54:55+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:54:55+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:55:01+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:55:01+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:55:06+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:55:06+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:55:23+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:55:23+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:55:26+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:55:26+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:55:48+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:55:48+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:55:58+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T22:55:58+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:02:02+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:02:02+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:03:25+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:03:25+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:04:29+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:04:29+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:04:45+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:04:45+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:04:47+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:04:47+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:04:55+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:04:55+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:05:14+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:05:14+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:05:15+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:05:15+06:00","url":"/favicon.ico"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-27T23:05:38+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:05:39+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:05:39+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:05:44+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:05:44+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:05:45+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:05:45+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:05:46+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:05:46+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:05:46+06:00","url":"/"}
+{"ip":"[::1]:53529","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-27T23:05:46+06:00","url":"/favicon.ico"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-27T23:06:23+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:06:25+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:06:25+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:06:34+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:06:34+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:06:35+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:06:35+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:06:57+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:06:57+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:07:03+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:07:03+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:07:03+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:07:03+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:12:21+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:12:21+06:00","url":"/favicon.ico"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-27T23:27:08+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:27:13+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:27:13+06:00","url":"/favicon.ico"}
+{"error":"pq: invalid input syntax for type numeric: \"\"","level":"error","msg":"Error updating database","time":"2024-02-27T23:27:26+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:27:26+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:27:36+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:35:34+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:35:34+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:35:35+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:35:35+06:00","url":"/favicon.ico"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-27T23:36:17+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:36:19+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:36:19+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:36:36+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:36:37+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:36:55+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:36:55+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:36:57+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:36:57+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:37:02+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:37:02+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:37:04+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:37:04+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:37:08+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:37:08+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:37:34+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:37:34+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:37:36+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:37:36+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:37:37+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-27T23:37:38+06:00","url":"/favicon.ico"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T19:32:52+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:33:00+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:33:00+06:00","url":"/favicon.ico"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:35:28+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:35:35+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:35:41+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:35:42+06:00","url":"/"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T19:36:38+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:36:41+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:37:18+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:37:21+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:37:23+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:37:25+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:38:32+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:38:33+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:38:36+06:00","url":"/"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T19:39:05+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:39:07+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:39:27+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:39:39+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:39:40+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:39:41+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:39:43+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:40:30+06:00","url":"/"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T19:40:54+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:40:55+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:40:58+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:40:59+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:41:00+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:41:02+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:41:04+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:41:07+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:41:08+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:41:15+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:41:17+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:41:46+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:41:52+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:41:53+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:41:56+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:41:58+06:00","url":"/"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T19:42:20+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:42:22+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:42:26+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:42:27+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:42:30+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:42:34+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:42:35+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:42:36+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:42:37+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:43:25+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:43:26+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:43:28+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:43:29+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:46:12+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:46:13+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:46:15+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:46:16+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:46:18+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:46:19+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:46:20+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T19:46:22+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:08:00+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:08:02+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:08:03+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:08:05+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:08:17+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:09:19+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:09:41+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:09:42+06:00","url":"/main"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:09:46+06:00","url":"/login"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:09:47+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:10:20+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:10:20+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:10:20+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:10:20+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:10:20+06:00","url":"/"}
+{"ip":"[::1]:60475","level":"warning","method":"GET","msg":"Too many requests","time":"2024-02-28T20:10:20+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:10:32+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:10:34+06:00","url":"/"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T20:11:02+06:00"}
+{"error":"listen tcp: lookup tcp/8000/?brandFilter=\u0026sortOrder=id\u0026page=1: nodename nor servname provided, or not known","level":"fatal","msg":"Server startup error","time":"2024-02-28T20:11:02+06:00"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T20:11:08+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:31:40+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:34:44+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:35:39+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:35:41+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:35:42+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:35:43+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:35:45+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:36:01+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:36:02+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:36:22+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:36:27+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:36:47+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:36:48+06:00","url":"/register"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:36:49+06:00","url":"/login"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:36:49+06:00","url":"/main"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:36:50+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:42:25+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:42:33+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:42:36+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:42:42+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:44:33+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:45:36+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:45:37+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:45:38+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:45:39+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:45:39+06:00","url":"/"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:45:41+06:00","url":"/admin"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T20:48:09+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:48:11+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:48:19+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:48:24+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:48:26+06:00","url":"/admin"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T20:50:22+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:50:33+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:51:13+06:00","url":"/admin"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T20:52:25+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:54:55+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:54:56+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:54:58+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:55:00+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:55:01+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:55:28+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:55:49+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:55:51+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:55:52+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T20:55:53+06:00","url":"/admin"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T21:13:32+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:13:34+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:14:06+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:14:09+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:14:10+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:14:15+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:14:45+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:14:46+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:14:47+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:14:52+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:15:05+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:15:07+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:15:09+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:15:10+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:15:59+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:16:00+06:00","url":"/admin"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T21:20:53+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:25:07+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:25:08+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:25:11+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:35:19+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:35:22+06:00","url":"/admin"}
+{"error":"template: mainPage.html:82:19: executing \"mainPage.html\" at \u003c.Gpu\u003e: can't evaluate field Gpu in type main.Laptop","level":"error","msg":"Error executing the template","time":"2024-02-28T21:44:47+06:00"}
+{"error":"template: mainPage.html:82:19: executing \"mainPage.html\" at \u003c.gpu\u003e: can't evaluate field gpu in type main.Laptop","level":"error","msg":"Error executing the template","time":"2024-02-28T21:44:54+06:00"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T21:48:24+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:25+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:26+06:00"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T21:48:56+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"error":"sql: expected 6 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:48:57+06:00"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T21:49:09+06:00"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T21:49:32+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:34+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:49:35+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:00+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"error":"sql: expected 5 destination arguments in Scan, not 4","level":"error","msg":"Error scanning products","time":"2024-02-28T21:50:19+06:00"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T21:50:40+06:00"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T21:53:21+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:55:07+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:55:09+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:55:11+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:55:13+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:55:14+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:56:15+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T21:56:28+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T22:04:54+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T22:06:03+06:00","url":"/admin"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T22:10:47+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T22:11:29+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T22:22:18+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T22:23:52+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T22:44:17+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T22:45:48+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T22:45:51+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T22:45:53+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T22:45:54+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T22:45:56+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T22:52:20+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T22:52:22+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T22:52:23+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T22:52:29+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T22:52:31+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T22:52:53+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T22:52:59+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T22:53:03+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T22:53:04+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T22:53:06+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T23:05:31+06:00","url":"/admin"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T23:37:09+06:00"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T23:37:41+06:00"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T23:39:14+06:00"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T23:41:28+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T23:41:37+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T23:41:56+06:00","url":"/admin"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-28T23:46:33+06:00","url":"/admin"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-28T23:47:22+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-29T00:07:04+06:00","url":"/admin"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-29T00:09:38+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-29T00:09:46+06:00","url":"/admin"}
+{"level":"info","msg":"Server is starting...","time":"2024-02-29T00:19:22+06:00"}
+{"level":"info","method":"GET","msg":"Request processing","time":"2024-02-29T00:19:27+06:00","url":"/admin"}

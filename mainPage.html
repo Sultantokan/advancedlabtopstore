@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Main</title>
+    
+    <style>
+         body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        
+        .navbar {
+            overflow: hidden;
+            background-color: #333;
+            font-family: Arial, sans-serif;
+        }
+
+        .navbar a {
+            float: left;
+            font-size: 16px;
+            color: white;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+
+        .navbar a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+        /* CARDS */
+        .card-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center; /* Центрирует карточки в контейнере */
+        gap: 20px; /* Расстояние между карточками */
+        margin-top: 30px;
+        }
+        .card {
+            border: 1px solid #ddd;
+            padding: 10px;
+            width: calc(25% - 20px); /* Расчет ширины карточки с учетом gap */
+            box-sizing: border-box; /* Включает padding в общую ширину карточки */
+            display: flex;
+            flex-direction: column;
+            align-items: center; /* Центрирует содержимое карточки по горизонтали */
+        }
+        .card p {
+        margin-top: 5px; /* Уменьшаем верхний отступ */
+        margin-bottom: 5px; /* Уменьшаем нижний отступ */
+        }
+        .card button {
+            background-color: orange; /* Green */
+            color: white;
+            padding: 10px;
+            margin-top: 10px; /* Отступ сверху для кнопки */
+            border: none;
+            cursor: pointer;
+            width: 100%;
+            font-size: 15px;
+            font-weight: bold;
+        }
+        .card button:hover {
+            opacity: 0.8;
+        }
+
+    </style>
+
+</head>
+<body>
+
+    <div class="navbar">
+        <a href="/main">Main</a>
+        <a href="/admin?brandFilter=&sortOrder=id&page=1">Admin Panel</a>
+        <a href="/profile">Profile</a>
+        <a href="/logout">Log out</a>
+        <a href="/cart">Cart</a>
+    </div>
+    
+
+    <div class="card-container">
+        {{range .}}
+        <form class="card" action="/addToCart" method="POST">
+            <h4>{{.Brand}} {{.Model}}</h4>
+            <p>CPU: {{.Processor}}</p>
+            <p>GPU: {{.GPU}}</p>
+            <p>RAM: {{.RAM}} GB</p>
+            <p>Storage: {{.StorageCapacity}} GB</p>
+            <p>Screen Size: {{.ScreenSize}}" </p>
+            <p>Price: ${{.Price}}</p>
+            <input type="hidden" name="id" value="{{.ID}}">
+            <button type="submit">Add to Cart</button>
+        </form>
+        {{end}}
+    </div>
+    
+
+    
+</body>
+</html>
